@@ -1,5 +1,5 @@
 # Data-Science-Portfolio
-Hello and welcome to my portfolio! I've got a few projects in here meant to demonstrate some of the skills I have. For the most part, these aren't particularly clean presentations, as the focus is more on showing the skillset I have. Here's a breakdown of what each project shows:
+Hello and welcome to my portfolio! I've got a few projects in here meant to demonstrate some of the skills I have. For the most part, these aren't particularly well annotated, as the focus is more on showing the skillset I have, not on collaborating with anyone else. Here's a breakdown of what each project shows:
 
 
 EPL Win Loss Predictions Edited.ipynb - A project focusing on predicting English Premier League matches. It primarily demonstrates web scraping and machine learning models.
